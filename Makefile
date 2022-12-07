@@ -1,4 +1,4 @@
-APPS = calorie-counting rock-paper-scissors
+APPS = calorie-counting rock-paper-scissors rucsack-reorganization
 OUTDIR = bin
 OUTPUT = $(APPS:%=$(OUTDIR)/%)
 
