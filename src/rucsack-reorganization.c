@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define BUFSIZE 10244
+#define BUFSIZE 1024
 #define VALUE_RANGE 52 /* a-z + A-Z */
 
 typedef struct {
@@ -10,7 +10,8 @@ typedef struct {
 } Tracker;
 
 int
-value_priority(char value) {
+value_priority(char value)
+{
 	if (value >= 'a' && value <= 'z') {
 		return value - 'a' + 1;
 	} else if (value >= 'A' && value <= 'Z') {
