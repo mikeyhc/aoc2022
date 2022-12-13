@@ -1,5 +1,5 @@
 APPS = calorie-counting rock-paper-scissors rucsack-reorganization \
-       camp-cleanup supply-stacks
+       camp-cleanup supply-stacks tuning-trouble
 OUTDIR = bin
 OUTPUT = $(APPS:%=$(OUTDIR)/%)
 
