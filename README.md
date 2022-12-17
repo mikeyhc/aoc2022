@@ -8,3 +8,4 @@ https://adventofcode.com/2022
 * [day 4 - camp cleanup](src/camp-cleanup.c)
 * [day 5 - supply stacks](src/supply-stacks.c)
 * [day 6 - tuning trouble](src/tuning-trouble.c)
+* [day 7 - no space left on device](src/no-space-left.c)
