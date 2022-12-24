@@ -57,3 +57,6 @@ data
 
 # vim files
 *.sw[op]
+
+# valgrind files
+vgcore.*
