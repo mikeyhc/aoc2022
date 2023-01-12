@@ -196,8 +196,6 @@ main(int argc, char **argv)
 	int total_moves, i, j;
 	long score, score2;
 
-
-
 	if (argc < 2) {
 		fprintf(stderr, "usage: %s {FILE}\n", argv[0]);
 		return 1;

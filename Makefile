@@ -1,6 +1,6 @@
 APPS = calorie-counting rock-paper-scissors rucsack-reorganization \
        camp-cleanup supply-stacks tuning-trouble no-space-left \
-       treetop-tree-house rope-bridge
+       treetop-tree-house rope-bridge cathode-ray-tube
 OUTDIR = bin
 OUTPUT = $(APPS:%=$(OUTDIR)/%)
 
