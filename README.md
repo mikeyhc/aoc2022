@@ -12,3 +12,4 @@ https://adventofcode.com/2022
 * [day 8 - treetop tree house](src/treetop-tree-house.c)
 * [day 9 - rope bridge](src/rope-bridge.c)
 * [day 10 - cathode-ray tube](src/cathode-ray-tube.c)
+* [day 11 - monkey in the middle](src/monkey-middle.c)
