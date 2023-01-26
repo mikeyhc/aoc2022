@@ -13,3 +13,4 @@ https://adventofcode.com/2022
 * [day 9 - rope bridge](src/rope-bridge.c)
 * [day 10 - cathode-ray tube](src/cathode-ray-tube.c)
 * [day 11 - monkey in the middle](src/monkey-middle.c)
+* [day 12 - hill climbing algorithm](src/hill-climbing.c)
