@@ -14,3 +14,4 @@ https://adventofcode.com/2022
 * [day 10 - cathode-ray tube](src/cathode-ray-tube.c)
 * [day 11 - monkey in the middle](src/monkey-middle.c)
 * [day 12 - hill climbing algorithm](src/hill-climbing.c)
+* [day 13 - distress signal](src/distress-signal.c)
