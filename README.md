@@ -15,3 +15,4 @@ https://adventofcode.com/2022
 * [day 11 - monkey in the middle](src/monkey-middle.c)
 * [day 12 - hill climbing algorithm](src/hill-climbing.c)
 * [day 13 - distress signal](src/distress-signal.c)
+* [day 14 - regolith reservoir](src/regolith-reservoir.c)
